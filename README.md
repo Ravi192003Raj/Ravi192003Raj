@@ -6,17 +6,23 @@
 - 🔭 I’m currently working on **an Automated Captioning System**
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **React, Web Technologies**
-- 👨‍💻 All of my projects are available at:  
-  [🔗 Portfolio Website](https://personal-portfolio-one-wine-53.vercel.app/)
-- 📄 Know about my experiences:  
-  [📄 Resume](https://drive.google.com/file/d/1b8ah2jYZycfQolbm5z_tV3uaAdfOnG9Y/view?usp=sharing)
+- 👨‍💻 All of my projects are available at:   [🔗 Portfolio Website](https://personal-portfolio-one-wine-53.vercel.app/)
+- 📄 Know about my experiences:   [📄 Resume](https://drive.google.com/file/d/1b8ah2jYZycfQolbm5z_tV3uaAdfOnG9Y/view?usp=sharing)
 - 📫 Reach me at: **ravi192003raj@gmail.com**
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<!-- Add social links here in the future -->
+  <a href="https://twitter.com/_ravi_raj_19" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ravi_raj_19" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ravi-raj-99057b219" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-raj-99057b219" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ravi192003raj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravi192003raj" height="30" width="40" />
+  </a>
 </p>
 
 ---
