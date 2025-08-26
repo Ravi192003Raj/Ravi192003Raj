@@ -93,6 +93,25 @@
   </a>
 </p>
 
+---
+
+---
+
+<h3 align="left">📊 GitHub Stats & Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravi192003Raj&show_icons=true&locale=en&theme=radical" alt="Ravi's GitHub Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ravi192003Raj&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi192003Raj&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180" />
+</p>
+
+
 
 ---
 
